@@ -1,0 +1,63 @@
+[
+
+    { 
+
+        "ten": "Trân", 
+
+        "tuoi": 23, 
+
+        "Toan": 8, 
+
+        "tiengAnh": 8, 
+
+        "lapTrinh": 9, 
+
+        "diemTB": null, 
+
+        "totNghiep": null, 
+
+        "lienLac": { "email": "Trandnb@gmail.com", "phone": "0123.987.123" } 
+
+    },
+
+    { 
+
+        "ten": "Nhung", 
+
+        "tuoi": 22, 
+
+        "Toan": 9, 
+
+        "tiengAnh": 10, 
+
+        "lapTrinh": 8, 
+
+        "diemTB": null, 
+
+        "totNghiep": null, 
+
+        "lienLac": { "email": "Nhungdtt@gmail.com", "phone": "0866.987.123" } 
+
+    },
+
+    { 
+
+        "ten": "Khôi", 
+
+        "tuoi": 23, 
+
+        "Toan": 7, 
+
+        "tiengAnh": 8, 
+
+        "lapTrinh": 10, 
+
+        "diemTB": null, 
+
+        "totNghiep": null, 
+
+        "lienLac": { "email": "Khoivhb@gmail.com", "phone": "0123.987.123" } 
+
+    }
+
+]
